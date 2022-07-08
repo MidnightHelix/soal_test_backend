@@ -1,6 +1,6 @@
 # Soal_test_backend
 
-## RUNNING
+## Run Code
 `go run main.go`
 
 ## Database Diagram
